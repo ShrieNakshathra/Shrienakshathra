@@ -1,15 +1,15 @@
 ![MasterHead](https://pbs.twimg.com/media/D-jnKUPU4AE3hVR.jpg)]
 
 <h1 align="center">Hi 👋, I'm Shrie Nakshathra</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A student working on improving her profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrienakshathra&label=Profile%20views&color=0e75b6&style=flat" alt="shrienakshathra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrienakshathra" alt="shrienakshathra" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend,Backend**
+- 🌱 I’m currently learning **Data analysis, Python, Frontend(Html, CSS, JavaScript)**
 
-- 💬 Ask me about **sql,html,css**
+- 💬 Ask me about **SQL, Python, PowerBI, HTML, CSS**
 
 - 📫 How to reach me **nakshathrasrinivas19@gmail.com**
 
