@@ -8,7 +8,7 @@ I'd describe myself as a very resourceful and an optimistic person with quick le
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nakshathrasrinivas19@gmail.com](mailto:nakshathrasrinivas19@gmail.com)
-* 🧠  I'm learning Data Analysis ,Python, SQL,
+* 🧠  I'm learning Data Analysis ,Python, SQL, PowerBI, Frontend(HTML, CSS, JavaScript)
 * ⚡  A bookworm
 
 ### Skills
